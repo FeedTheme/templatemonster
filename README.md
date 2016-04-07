@@ -1,2 +1,2 @@
 # templatemonster
-Free Template from templatemonster.com we use on our project sites
+Free templates from templatemonster.com we use on our project sites
